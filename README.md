@@ -1,5 +1,5 @@
 # Idenfitying-Mental-Health-Disorders-with-NLP-and-DL
-This project include the development of two AI models (NLP &amp; DL) to identify potential mental health disorders through text (e.g. social media posts, etc..)
+This project includes the use of one NLP model and the development of two AI models (NLP &amp; DL) to identify potential mental health disorders through text (e.g. social media posts, etc..)
 
 1. Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists
 2. Pay attention to the initial parameters set at the beginning of the Jupyter Notebook.

@@ -4,6 +4,7 @@
 Attention is drawn to the fact that copyright of this dissertation rests with its author. The Intellectual Property Rights of the products produced as part of the project belong to the author unless otherwise specified below, in accordance with the University of Bath's policy on intellectual property (see
 https://www.bath.ac.uk/publications/university-ordinances/attachments/Ordinances_1_October_2020.pdf).
 
+<br><br>
 This project includes the use of one NLP model and the development of two AI models (NLP &amp; DL) to identify potential mental health disorders through text (e.g. social media posts, etc..)
 
 1. Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists

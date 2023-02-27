@@ -24,5 +24,5 @@ This project includes the use of one NLP model and the development of two AI mod
 
    d. print_dataset_each_step: This boolean variable when set to 'True' will print the dataframe object at each step during the NLP development.
 
-  e. number_of_rows_to_print: This number regards to the "print_dataset_each_step" variable and sets the number of rows of the dataframe object to 
+   e. number_of_rows_to_print: This number regards to the "print_dataset_each_step" variable and sets the number of rows of the dataframe object to 
                               be printed on each step.

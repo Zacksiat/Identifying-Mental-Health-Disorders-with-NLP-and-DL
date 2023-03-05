@@ -1,14 +1,17 @@
 <h2>Identifying mental health disorders with Artificial Intelligence using Natural Language Processing & Deep Learning Techniques
 
-Zacharias Siatris<br>
+
 MSc in Artificial Intelligence <br>
 The University of Bath <br>2022 - 2023</h2>
 
 <br><br>
-This project includes the use of one NLP model and the development of two AI models (NLP &amp; DL) to identify potential mental health disorders through text (e.g. social media posts, etc..)
+This project includes the use of one NLP model and the development of two AI models (NLP &amp; DL) to identify potential mental health disorders through text.
+Please follow the instructions below to experience a successful execution of the end-to-end AI solution.
 
-1. Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists
-2. Pay attention to the initial parameters set at the beginning of the Jupyter Notebook.
+1. There are three things that you need to run the code. 
+   a. First make sure you have python installed (3.9+).
+3. Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists
+4. Pay attention to the initial parameters set at the beginning of the Jupyter Notebook.
 
    a. load_big_datasets: This boolean variable when set to 'True' will use the csv files that include more than 800K samples.
       <br>**Warning:** Depending the machine you are executing this notebook it may take from 1-3 hours.

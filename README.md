@@ -2,7 +2,7 @@
 
 Zacharias Siatris<br>
 MSc in Artificial Intelligence <br>
-The University of Bath 2022 - 2023</h2>
+The University of Bath <br>2022 - 2023</h2>
 
 <br><br>
 This project includes the use of one NLP model and the development of two AI models (NLP &amp; DL) to identify potential mental health disorders through text (e.g. social media posts, etc..)

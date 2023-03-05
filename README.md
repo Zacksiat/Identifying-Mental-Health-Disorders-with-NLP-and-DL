@@ -7,8 +7,8 @@ The University of Bath 2022 - 2023</h2>
 <br><br>
 This project includes the use of one NLP model and the development of two AI models (NLP &amp; DL) to identify potential mental health disorders through text (e.g. social media posts, etc..)
 
-1 Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists
-2 Pay attention to the initial parameters set at the beginning of the Jupyter Notebook.
+1. Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists
+2. Pay attention to the initial parameters set at the beginning of the Jupyter Notebook.
 
    a. load_big_datasets: This boolean variable when set to 'True' will use the csv files that include more than 800K samples.
       **Warning:** Depending the machine you are executing this notebook it may take from 1-3 hours.

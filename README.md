@@ -32,5 +32,5 @@ This project includes the use of one NLP model (pre-trained via API) and the dev
 
 4. Now you are ready to run the Jupyter Notebook. In the first code cell of the notebook all installation and import commands are placed so there is no further need to install manually any other library or package. The first time that you will run the notebook it will take a few minutes to install the packages and libraries.
 
-
-<h3> ENJOY </h3>
+<br>
+<h4> ENJOY </h4>

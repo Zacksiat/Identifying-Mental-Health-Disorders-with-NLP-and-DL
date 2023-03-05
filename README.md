@@ -22,12 +22,15 @@ This project includes the use of one NLP model (pre-trained via API) and the dev
       <br>**Warning:** Depending the machine you are running the code, the execution time may last between 1-3 hours.
       
    b. use_nlp_validation_model: This boolean variable when set to 'True' will utilize the NLP validation model (Hugging Face) in order to apply sentiment analysis to         the dataset.
-      <br>**Warning:** It requires a lot of time due to the use of API calls. In case you selected to load the big datasets (previous boolean variable), make sure you        set this variable to 'False'.
+      <br>**Warning:** It requires a lot of time due to the use of API calls. In case you selected to load the big datasets (previous boolean variable), make sure you       set this variable to 'False'. Set it to "True" if and only if "load_big_datasets = False".
 
-   c. print_word_cloud_per_disorder: This boolean variable when set to 'True' will print at the last section "Results & Visualizations" a group of words 
-                                    included in each mental health disorder using Word Cloud.
+   c. print_word_cloud_per_disorder: This boolean variable when set to 'True' will print at the last section "Results & Visualizations" a group of words included in         each mental health disorder using Word Cloud.
 
-   d. print_dataset_each_step: This boolean variable when set to 'True' will print the dataframe object at each step during the NLP development.
+   d. print_dataset_each_step: This boolean variable when set to 'True' will print the dataframe object at each step during the NLP pre-processing.
 
-   e. number_of_rows_to_print: This number regards to the "print_dataset_each_step" variable and sets the number of rows of the dataframe object to 
-                              be printed on each step.
+   e. number_of_rows_to_print: This number regards to the "print_dataset_each_step" variable and sets the number of rows of the dataframe object to be printed on each       step.
+
+4. Now you are ready to run the Jupyter Notebook. In the first code cell of the notebook all installation and import commands are placed so there is no further need to install manually any other library or package. The first time that you will run the notebook it will take a few minutes to install the packages and libraries.
+
+
+<h3> ENJOY </h3>

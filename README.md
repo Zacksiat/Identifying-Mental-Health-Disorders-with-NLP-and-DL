@@ -11,7 +11,9 @@ Please follow the instructions below to experience a successful execution of the
 1. Prior to running the code, make sure you have installed/available the following three things:
 
    a. Python (3.9+) installed.
+   
    b. Anaconda Navigator / Jupyter Notebook installed.
+   
    c. Internet connection available.
    
 3. Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists

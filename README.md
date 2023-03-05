@@ -8,9 +8,11 @@ The University of Bath <br>2022 - 2023</h2>
 This project includes the use of one NLP model and the development of two AI models (NLP &amp; DL) to identify potential mental health disorders through text.
 Please follow the instructions below to experience a successful execution of the end-to-end AI solution.
 
-1. There are three things that you need to run the code. 
+1. Prior to running the code, make sure you have installed/available the following three things:
 
-   a. First make sure you have python installed (3.9+).
+   a. Python (3.9+) installed.
+   b. Anaconda Navigator / Jupyter Notebook installed.
+   c. Internet connection available.
    
 3. Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists
 4. Pay attention to the initial parameters set at the beginning of the Jupyter Notebook.

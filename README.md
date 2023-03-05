@@ -16,16 +16,15 @@ Please follow the instructions below to experience a successful execution of the
    
    c. Internet connection available.
    
-3. Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists
-4. Pay attention to the initial parameters set at the beginning of the Jupyter Notebook.
+2. Make sure you have the "Datasets" folder in the same folder (path) where the Jupyter Notebook exists. 
+3. Pay serious attention to the initial parameters set at the beginning of the Jupyter Notebook which you may find below: 
 
    a. load_big_datasets: This boolean variable when set to 'True' will use the csv files that include more than 800K samples.
-      <br>**Warning:** Depending the machine you are executing this notebook it may take from 1-3 hours.
+      <br>**Warning:** Depending the machine you are running the code, the execution time may last between 1-3 hours.
 
 
-   b. use_nlp_validation_model: This boolean variable when set to 'True' will utilize the NLP validation model (Hugging Face) in order to apply 
-                               sentiment analysis to the dataset.
-      <br>**Warning:** It requires a lot of time due to the use of API calls. In case you selected to load the big datasets, make sure you set this variable to 'False' .
+   b. use_nlp_validation_model: This boolean variable when set to 'True' will utilize the NLP validation model (Hugging Face) in order to apply sentiment analysis to         the dataset.
+      <br>**Warning:** It requires a lot of time due to the use of API calls. In case you selected to load the big datasets (previous boolean variable), make sure you        set this variable to 'False' .
 
 
    c. print_word_cloud_per_disorder: This boolean variable when set to 'True' will print at the last section "Results & Visualizations" a group of words 

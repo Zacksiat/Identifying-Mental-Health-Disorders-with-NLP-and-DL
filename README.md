@@ -1,6 +1,6 @@
 <h2>Identifying mental health disorders with Artificial Intelligence using Natural Language Processing & Deep Learning Techniques
 
-
+Zacharias Siatris <br>
 MSc in Artificial Intelligence <br>
 The University of Bath <br>2022 - 2023</h2>
 

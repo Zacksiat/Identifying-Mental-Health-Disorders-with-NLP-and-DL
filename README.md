@@ -9,7 +9,9 @@ This project includes the use of one NLP model and the development of two AI mod
 Please follow the instructions below to experience a successful execution of the end-to-end AI solution.
 
 1. There are three things that you need to run the code. 
+
    a. First make sure you have python installed (3.9+).
+   
 3. Make sure you have the "Datasets" folder in the same folder where the Jupyter Notebook exists
 4. Pay attention to the initial parameters set at the beginning of the Jupyter Notebook.
 

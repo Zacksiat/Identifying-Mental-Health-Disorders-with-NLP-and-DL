@@ -5,7 +5,7 @@ MSc in Artificial Intelligence <br>
 The University of Bath <br>2022 - 2023</h2>
 
 <br><br>
-This project includes the use of one NLP model and the development of two AI models (NLP &amp; DL) to identify potential mental health disorders through text.
+This project includes the use of one NLP model (pre-trained via API) and the development of NLP pre-processing methods along with a DL model to identify potential mental health disorders through text.
 Please follow the instructions below to experience a successful execution of the end-to-end AI solution.
 
 1. Prior to running the code, make sure you have installed/available the following three things:

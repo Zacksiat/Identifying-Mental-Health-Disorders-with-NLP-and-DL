@@ -1,8 +1,6 @@
 <h2>Identifying mental health disorders with Artificial Intelligence using Natural Language Processing & Deep Learning Techniques
 
-Zacharias Siatris <br>
-MSc in Artificial Intelligence <br>
-The University of Bath <br>2022 - 2023</h2>
+Zacharias Siatris <br></h2>
 
 <br><br>
 This project includes the use of one NLP model (pre-trained via API) and the development of NLP pre-processing methods along with a DL model to identify potential mental health disorders through text. Please follow the instructions below to experience a successful execution of the end-to-end AI solution.
